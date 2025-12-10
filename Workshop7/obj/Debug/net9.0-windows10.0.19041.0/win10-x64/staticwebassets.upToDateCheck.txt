@@ -1,0 +1,11 @@
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\index.html
+wwwroot\Images\IICIMAGE.jpg
+wwwroot\Images\Studentimage.webp
+wwwroot\Images\student.png
+C:\Users\Sudip\OneDrive - Itahari International College Pvt. Ltd\Desktop\App Development 1\Workshop7\wwwroot\css\app.css
+C:\Users\Sudip\OneDrive - Itahari International College Pvt. Ltd\Desktop\App Development 1\Workshop7\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\Sudip\OneDrive - Itahari International College Pvt. Ltd\Desktop\App Development 1\Workshop7\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\Sudip\OneDrive - Itahari International College Pvt. Ltd\Desktop\App Development 1\Workshop7\wwwroot\index.html
