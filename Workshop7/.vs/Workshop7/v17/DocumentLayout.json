@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|c:\\users\\sudip\\onedrive - itahari international college pvt. ltd\\desktop\\app development 1\\workshop7\\components\\pages\\monkeys.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|solutionrelative:components\\pages\\monkeys.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|c:\\users\\sudip\\onedrive - itahari international college pvt. ltd\\desktop\\app development 1\\workshop7\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|c:\\users\\sudip\\onedrive - itahari international college pvt. ltd\\desktop\\app development 1\\workshop7\\components\\pages\\intropage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|solutionrelative:components\\pages\\intropage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|c:\\users\\sudip\\onedrive - itahari international college pvt. ltd\\desktop\\app development 1\\workshop7\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|c:\\users\\sudip\\onedrive - itahari international college pvt. ltd\\desktop\\app development 1\\workshop7\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|c:\\users\\sudip\\onedrive - itahari international college pvt. ltd\\desktop\\app development 1\\workshop7\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|c:\\users\\sudip\\onedrive - itahari international college pvt. ltd\\desktop\\app development 1\\workshop7\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|c:\\users\\sudip\\onedrive - itahari international college pvt. ltd\\desktop\\app development 1\\workshop7\\components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|solutionrelative:components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|c:\\users\\sudip\\onedrive - itahari international college pvt. ltd\\desktop\\app development 1\\workshop7\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|c:\\users\\sudip\\onedrive - itahari international college pvt. ltd\\desktop\\app development 1\\workshop7\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|solutionrelative:components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|c:\\users\\sudip\\onedrive - itahari international college pvt. ltd\\desktop\\app development 1\\workshop7\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|c:\\users\\sudip\\onedrive - itahari international college pvt. ltd\\desktop\\app development 1\\workshop7\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BA8BE65E-F196-4717-8168-D4162C565227}|Workshop7.csproj|solutionrelative:wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Monkeys.razor",
+              "DocumentMoniker": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\Pages\\Monkeys.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Monkeys.razor",
+              "ToolTip": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\Pages\\Monkeys.razor",
+              "RelativeToolTip": "Components\\Pages\\Monkeys.razor",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T03:54:44.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T03:11:04.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntroPage.razor",
+              "DocumentMoniker": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\Pages\\IntroPage.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\IntroPage.razor",
+              "ToolTip": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\Pages\\IntroPage.razor",
+              "RelativeToolTip": "Components\\Pages\\IntroPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T03:10:43.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T02:37:42.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T03:15:47.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T02:39:16.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T03:11:01.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-10T03:27:36.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Profile.razor",
+              "DocumentMoniker": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\Pages\\Profile.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Profile.razor",
+              "ToolTip": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\Pages\\Profile.razor",
+              "RelativeToolTip": "Components\\Pages\\Profile.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T03:28:44.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T03:29:15.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T03:33:20.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\Sudip\\OneDrive - Itahari International College Pvt. Ltd\\Desktop\\App Development 1\\Workshop7\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T03:18:28.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
